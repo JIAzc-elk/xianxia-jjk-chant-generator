@@ -1,0 +1,4 @@
+interface:
+  display_name: "修仙神通咒词工坊"
+  short_description: "根据神通描述生成二十四个有来路、有机制解释的咒词关键词，供作者挑选组装"
+  default_prompt: "使用 $xianxia-jjk-chant-generator，根据我的神通描述生成24个咒词关键词，每个解释来路和对应效果，先让我选择。"
